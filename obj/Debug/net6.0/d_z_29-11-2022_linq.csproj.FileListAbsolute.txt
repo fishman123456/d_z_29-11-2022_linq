@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\bin\Debug\net6.0\d_z_29-11-2022_linq.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\bin\Debug\net6.0\d_z_29-11-2022_linq.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\bin\Debug\net6.0\d_z_29-11-2022_linq.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\bin\Debug\net6.0\d_z_29-11-2022_linq.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\bin\Debug\net6.0\d_z_29-11-2022_linq.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\refint\d_z_29-11-2022_linq.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\d_z_29-11-2022_linq.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\d_z_29-11-2022_linq\obj\Debug\net6.0\ref\d_z_29-11-2022_linq.dll
