@@ -20,9 +20,16 @@ Console.WriteLine("Введите возраст:");
 int year=Convert.ToInt32( Console.ReadLine());
 
 List<Human> FoundYear = list.FindAll(item => item._age <= year);
-List<Human> Age_Year = new List<Human>();
-
+Console.WriteLine("\nДо сортировки\n");
 foreach (var item in FoundYear)
 { 
     Console.WriteLine($"Возраст {item._age} совпадает с Имя: {item._name}\t\t Фамилия: {item._surname}") ; 
+}
+Console.WriteLine("\nПосле сортировки\n");
+
+var SortP = FoundYear.OrderByDescending(item => item._name).ToArray();
+
+foreach (var item in SortP)
+{
+    Console.WriteLine($"Возраст {item._age} совпадает с Имя: {item._name}\t\t Фамилия: {item._surname}");
 }
